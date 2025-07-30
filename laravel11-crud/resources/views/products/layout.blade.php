@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD 11</title>
+    <title>CRUD Product</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
 <body>
-    <h1>Laravel 11 CRUD</h1>
+<div class="container mt-5">
     @yield('content')
+</div>
 </body>
 </html>
